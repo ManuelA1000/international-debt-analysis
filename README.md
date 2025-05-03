@@ -7,12 +7,14 @@ This repository contains an analysis of the `international_debt` dataset, which 
 ## Key Findings
 
 ### Total Debt Owed
-The total amount of debt owed by all countries in the dataset is **[3079734488821.4]**.
+The total amount of debt owed by all countries in the dataset is **3079734488821.4**.
+
 <img width="132" alt="image" src="https://github.com/user-attachments/assets/4b9a6e64-235e-4005-81e8-68bcc176491f" />
 
 
 ### Distinct Countries
 The dataset contains records for **124** distinct countries.
+
 <img width="142" alt="image" src="https://github.com/user-attachments/assets/6c5ea00f-4b35-4eb9-8e9e-289bef9bd3cd" />
 
 ### Debt Indicators
@@ -22,7 +24,7 @@ The dataset includes various debt indicators. A few examples are:
 
 ### Country with the Highest Debt
 - **Country Name**: China
-- **Total Debt Owed**: [285793490528]
+- **Total Debt Owed**: 285793490528
 
 ### Average Debt by Indicator
 The average debt for different indicators is as follows:
@@ -30,10 +32,10 @@ The average debt for different indicators is as follows:
 
 
 ### Principal Repayments
-The country with the highest amount of principal repayments is **China**, with a total repayment of **[168611602432]**.
+The country with the highest amount of principal repayments is **China**, with a total repayment of **168611602432**.
 
 ### Most Common Debt Indicator
-The most frequently recorded debt indicator is **[Interest payments on external debt, long-term (INT, current US$)]**, appearing **[124]** times in the dataset.
+The most frequently recorded debt indicator is **Interest payments on external debt, long-term (INT, current US$)**, appearing **124** times in the dataset.
 
 ### Top 5 Countries by Total Debt
 <img width="191" alt="image" src="https://github.com/user-attachments/assets/aad34071-9c07-4e34-a651-06062f1bbd60" />
@@ -51,7 +53,7 @@ This analysis highlights significant trends in international debt. It identifies
 3. Review the results and findings.
 
 ## Author
-[Acar Emmanuel]
+Acar Emmanuel
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE(LICENSE) file for details.
